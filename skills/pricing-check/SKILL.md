@@ -1,6 +1,6 @@
 ---
 id: "vibe-pricing-reality"
-name: "damage-check: Competitor Cost Map"
+name: "PricingCheck: Competitor Cost Map"
 version: "1.1.0"
 description: "Researches real, currently-listed prices for competing products and reframes them in relatable terms — sourced figures only, no estimates or invented wages."
 category: "Productivity"
